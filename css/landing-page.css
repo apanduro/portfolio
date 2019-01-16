@@ -32,8 +32,7 @@ body, h1, h2, h3, h4, h5, h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Art-Images-Desktop-Palm-Tree-HD-Wallpapers.jpg)  no-repeat center center;
-    /* ../img/HRI/hri.jpg */
+    background: url(../img/HRI/hri.jpg )  no-repeat center center;
     background-size: cover;
 }
 
@@ -56,8 +55,9 @@ body, h1, h2, h3, h4, h5, h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(https://wallpaper.wiki/wp-content/uploads/2017/05/Art-Images-Desktop-Palm-Tree-HD-Wallpapers.jpg) no-repeat center center;
+  background: url(../img/HRI/hri.jpg ) no-repeat center center;
   /* wood http://androidwalls.net/wp-content/uploads/2015/04/Cherry%20Wood%20Pattern%20Texture%20Android%20Wallpaper.jpg */
+  /*  https://wallpaper.wiki/wp-content/uploads/2017/05/Art-Images-Desktop-Palm-Tree-HD-Wallpapers.jpg  */
   background-size: cover;
 }
 
